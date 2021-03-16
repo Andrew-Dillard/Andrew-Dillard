@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Andrew-Dillard
-- 👀 I’m interested in ... all things web development
-- 🌱 I’m currently learning ... all things web development
-- 💞️ I’m looking to collaborate on ... all things web development
+- ⚡ I’m interested in all things web development
+- 💻 I’m currently learning all things web development
+- 🧠 If I'm not always learning, I'm losing my mind. 
+- 🤝 I’m looking to collaborate on all things web development
 - 📫 How to reach me ... Email: asdillard1@gmail.com
 
 <!---
