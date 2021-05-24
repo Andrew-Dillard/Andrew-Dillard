@@ -4,6 +4,7 @@
 - 🧠 If I'm not always learning, I'm losing my mind. 
 - 🤝 I’m looking to collaborate on all things web development
 - 📫 How to reach me ... Email: asdillard1@gmail.com
+- :slightly_smiling_face: Connect with me on LinkedIn - www.linkedin.com/in/andrew-dillard-vws
 
 <!---
 Andrew-Dillard/Andrew-Dillard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
